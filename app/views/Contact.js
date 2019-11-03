@@ -87,7 +87,8 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>Feel free to get in touch. You can email me at: </p>
+          <p>Feel free to get in touch. You can email me at: <a href="mailto:sunny.p.panchal@gmail.com">sunny.p.panchal@gmail.com</a></p>
+          {/*
           <div
             className="inline-container"
             style={validateText(message) ? {} : { color: 'red' }}
@@ -99,6 +100,7 @@ const Contact = () => {
               <span>@sunnypanchal.ca</span>
             </a>
           </div>
+          */}
         </div>
         <ul className="icons">
           {data.map((s) => (
