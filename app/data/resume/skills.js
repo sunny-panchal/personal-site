@@ -57,7 +57,7 @@ export const skills = [
   {
     title: 'Bash',
     compentency: 2,
-    category: ['Tools', 'Languages'],
+    category: ['Tools'],
   },
   {
     title: 'Amazon Web Services',
@@ -125,6 +125,11 @@ export const skills = [
     category: ['Data Science', 'Machine Learning', 'Python'],
   },
   {
+    title: 'Pytorch',
+    compentency: 4,
+    category: ['Data Science', 'Machine Learning', 'Python'],
+  },
+  {
     title: 'Jupyter',
     compentency: 5,
     category: ['Data Science', 'Machine Learning', 'Python'],
@@ -132,17 +137,17 @@ export const skills = [
   {
     title: 'HTML',
     compentency: 3,
-    category: ['Web Development', 'Languages'],
+    category: ['Web Development'],
   },
   {
     title: 'CSS',
     compentency: 3,
-    category: ['Web Development', 'Languages'],
+    category: ['Web Development'],
   },
   {
     title: 'SASS/SCSS',
     compentency: 3,
-    category: ['Web Development', 'Languages'],
+    category: ['Web Development'],
   },
   {
     title: 'Python',
