@@ -5,7 +5,7 @@ const data = {
   },
   countries: {
     label: 'Countries visited',
-    value: 15,
+    value: 23,
     link: 'https://drive.google.com/open?id=12Lp3nk-7CLgvIGQzyYfTaBJIMN1kEEER&usp=sharing',
   },
   location: {
