@@ -20,7 +20,7 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p> Hi, welcome to my website. Please check back soon for some exciting updates!
+      <p> Hi, I’m Sunny. I’m an aspiring AI researcher trying to make sense of and replicate cognitive capabilities using a multi-disciplinary approach. The wonders of consciousness, very nature of being, sublime complexity of our brain, and where we’re headed will forever have me spiralling down a rabbit hole. When I’m not thinking about those, I like to boulder, play squash or meditate.
       </p>
 
       {/*
