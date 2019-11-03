@@ -3,6 +3,21 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
+import Cell from '../components/Projects/Cell';
+import projectData from '../data/projects';
+import blogData from '../data/blog';
+
+// Concatenate blogs and project posts
+var allData = projectData.concat(blogData);
+
+// Sort by date
+allData.sort((a,b) => (a.date < b.date) ? 1 : -1);
+
+// Show N most recent updates
+var mostRecentN = 3;
+
+allData = allData.slice(0,mostRecentN);
+
 const Index = () => (
   <Main>
     <article className="post" id="index">
@@ -19,7 +34,16 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <div className="body">
+        <h2>Recent Updates</h2>
+        {allData.map((data) => (
+          <Cell
+            data={data}
+            key={data.title}
+          />
+        ))}
+      </div>
+      <p> This site was bootstrapped from Michael D'Angelo's project. Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
   </Main>
 );
