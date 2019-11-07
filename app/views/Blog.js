@@ -14,7 +14,7 @@ import data from '../data/blog';
   // 1) Build it as an application where I interact with the posts to render new children components and maintain a state within the parent
         // -- Would need to figure out how to maintain the history for this and how to reference to subpages directly via a link
   // 2) Set up each blog post as a new page
-        // -- still need to figure out how to set up the server side routing of this... 
+        // -- still need to figure out how to set up the server side routing of this...
 
 const Blog = () => (
   <Main>
@@ -27,14 +27,14 @@ const Blog = () => (
           <p>COMING SOON</p>
         </div>
       </header>
-      {data.map((blogpost) => (
+      {/*data.map((blogpost) => (
         <Link to={blogpost.link}>
           <Cell
             data={blogpost}
             key={blogpost.title}
           />
         </Link>
-      ))}
+      ))*/}
     </article>
   </Main>
 );
