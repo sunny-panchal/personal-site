@@ -24,12 +24,13 @@ Goals:
   - Advocating for safe development of AI shaping international policy
 
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+I'm seeking new opportunities to apply and research methods in artificial intelligence through either industry or academia and pushing myself to start blogging.
 <br><br>
-#### Some history
-
-Talk about my story
-<br><br>
+#### In the long run, I'd like to
+- Obtain a PhD in a relevant high-impact topic within AI
+- Make a contribution via direct research
+- Publish an annual review on the state of AI
+<br>
 #### I like
 - Hiking
 
