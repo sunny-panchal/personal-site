@@ -20,6 +20,7 @@ import HelloWorld from './views/posts/blogs/HelloWorld'
 import FourPlayerChess from './views/posts/projects/FourPlayerChess'
 import Mood from './views/posts/projects/Mood'
 import Hopfield from './views/posts/projects/Hopfield'
+import CCNA2 from './views/posts/projects/CCNA2'
 
 import NotFound from './views/NotFound';
 
@@ -42,6 +43,7 @@ ReactDOM.render(
       <Route path="/project/fourplayerchess" component={FourPlayerChess} />
       <Route path="/project/moodanddecisionmaking" component={Mood} />
       <Route path="/project/hopfield" component={Hopfield} />
+      <Route path="/project/ccnA2" component={CCNA2} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>

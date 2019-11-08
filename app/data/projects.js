@@ -27,6 +27,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'CCN',
     show: true,
+  }, {
+    title: "Computational Modeling of Behavioural Data",
+    subtitle: 'Computational Cognitive Neuroscience Assignment 2',
+    link: '/project/ccnA2/',
+    image: '/images/placeholder1.jpg',
+    date: '2019-03-25',
+    desc: 'Coming soon',
+    tags: 'CCN',
+    show: true,
   },
 ];
 
