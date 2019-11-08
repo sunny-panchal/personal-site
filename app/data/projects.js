@@ -54,6 +54,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'MLP, Coursework',
     show: true,
+  }, {
+    title: "Pytorch Convolutional Neural Network Implementation and Exploration",
+    subtitle: 'Machine Learning Practical Coursework - University of Edinburgh',
+    link: '/project/mlpA2/',
+    image: '/images/placeholder1.jpg',
+    date: '2018-11-23',
+    desc: 'Coming soon',
+    tags: 'MLP, Coursework',
+    show: true,
   },
 ];
 
