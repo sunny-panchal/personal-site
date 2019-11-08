@@ -63,6 +63,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'MLP, Coursework',
     show: true,
+  }, {
+    title: "Cross-Modal Generation and Modality-Driven Semantic Segmentation with Generative Adversarial Networks",
+    subtitle: 'University of Edinburgh MSc Dissertation',
+    link: '/project/dissertation/',
+    image: '/images/placeholder1.jpg',
+    date: '2019-08-23',
+    desc: 'Coming soon',
+    tags: 'Dissertation, Coursework',
+    show: true,
   },
 ];
 

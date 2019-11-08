@@ -24,6 +24,7 @@ import CCNA2 from './views/posts/projects/CCNA2'
 import RLHFOSoccer from './views/posts/projects/RLHFOSoccer'
 import MLPA1 from './views/posts/projects/MLPA1'
 import MLPA2 from './views/posts/projects/MLPA2'
+import MScDissertation from './views/posts/projects/MScDissertation'
 
 import NotFound from './views/NotFound';
 
@@ -50,6 +51,7 @@ ReactDOM.render(
       <Route path="/project/rl-hfo-soccer" component={RLHFOSoccer} />
       <Route path="/project/mlpA1" component={MLPA1} />
       <Route path="/project/mlpA2" component={MLPA2} />
+      <Route path="/project/dissertation" component={MScDissertation} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>
