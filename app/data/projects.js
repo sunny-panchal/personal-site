@@ -8,6 +8,7 @@ const data = [
     date: '2019-02-14',
     desc: 'Extended AlphaZero algorithm for four-player chess.',
     tags: 'MLP, RL',
+    show: true,
   }, {
     title: '',
     subtitle: '',
@@ -16,6 +17,7 @@ const data = [
     date: '2019-02-14',
     desc: '',
     tags: '',
+    show: false,
   },
 ];
 

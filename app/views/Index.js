@@ -13,6 +13,11 @@ var allData = projectData.concat(blogData);
 // Sort by date
 allData.sort((a,b) => (a.date < b.date) ? 1 : -1);
 
+// remove posts with show: false
+allData = allData.filter(function(data) {
+  return data.show === true;
+});
+
 // Show N most recent updates
 var mostRecentN = 3;
 
@@ -36,13 +41,13 @@ const Index = () => (
       </p>
       <div className="body">
         <h2>Recent Updates</h2>
-        <p> No recent updates </p>
-        {/*allData.map((data) => (
+        {/*Add conditional no recent updates line*/}
+        {allData.map((data) => (
           <Cell
             data={data}
             key={data.title}
           />
-        ))*/}
+        ))}
       </div>
       <p> This site was bootstrapped from Michael D'Angelo's project. Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
