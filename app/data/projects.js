@@ -45,6 +45,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'RL, Coursework',
     show: true,
+  }, {
+    title: "Exploration of RMS-Prop and Adam Learning Algorithms",
+    subtitle: 'Machine Learning Practical Coursework - University of Edinburgh',
+    link: '/project/mlpA1/',
+    image: '/images/placeholder1.jpg',
+    date: '2018-10-26',
+    desc: 'Coming soon',
+    tags: 'MLP, Coursework',
+    show: true,
   },
 ];
 
