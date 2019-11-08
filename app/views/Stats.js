@@ -23,3 +23,8 @@ const Stats = () => (
 );
 
 export default Stats;
+
+// TODO: New Features
+//   - Word map from posts
+//   - Number of publications
+//   - Chart for posts 
