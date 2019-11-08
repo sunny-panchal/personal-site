@@ -18,6 +18,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'CCN',
     show: true,
+  }, {
+    title: "Hopfield Networks, Schizophrenia and the Izhikevich Neuron Model",
+    subtitle: 'Computational Cognitive Neuroscience Assignment 1',
+    link: '/project/hopfield/',
+    image: '/images/placeholder1.jpg',
+    date: '2019-02-15',
+    desc: 'Coming soon',
+    tags: 'CCN',
+    show: true,
   },
 ];
 

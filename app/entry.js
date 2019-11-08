@@ -19,6 +19,7 @@ import HelloWorld from './views/posts/blogs/HelloWorld'
 // Project posts
 import FourPlayerChess from './views/posts/projects/FourPlayerChess'
 import Mood from './views/posts/projects/Mood'
+import Hopfield from './views/posts/projects/Hopfield'
 
 import NotFound from './views/NotFound';
 
@@ -40,6 +41,7 @@ ReactDOM.render(
       {/*PROJECT POSTS*/}
       <Route path="/project/fourplayerchess" component={FourPlayerChess} />
       <Route path="/project/moodanddecisionmaking" component={Mood} />
+      <Route path="/project/hopfield" component={Hopfield} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>
