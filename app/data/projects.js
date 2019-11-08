@@ -3,8 +3,8 @@ const data = [
   {
     title: 'AlphaZero for Four-Player Chess',
     subtitle: 'Machine Learning Practical Project - University of Edinburgh',
-    link: '/project/4playerchess/',
-    image: '/images/projects/4playerchess.jpg',
+    link: '/project/fourplayerchess/',
+    image: '/images/projects/fourplayerchess.jpg',
     date: '2019-02-14',
     desc: 'Extended AlphaZero algorithm for four-player chess.',
     tags: 'MLP, RL',
