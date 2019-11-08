@@ -4,9 +4,9 @@ import Helmet from 'react-helmet';
 import ReactMarkdown from 'react-markdown';
 import dayjs from 'dayjs';
 
-import Main from '../../layouts/Main';
+import Main from '../../../layouts/Main';
 
-import markdown from '../../data/markdown/blog/helloworld.md';
+import markdown from '../../../data/markdown/blog/helloworld.md';
 
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
