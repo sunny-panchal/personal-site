@@ -21,6 +21,7 @@ import FourPlayerChess from './views/posts/projects/FourPlayerChess'
 import Mood from './views/posts/projects/Mood'
 import Hopfield from './views/posts/projects/Hopfield'
 import CCNA2 from './views/posts/projects/CCNA2'
+import RLHFOSoccer from './views/posts/projects/RLHFOSoccer'
 
 import NotFound from './views/NotFound';
 
@@ -44,6 +45,7 @@ ReactDOM.render(
       <Route path="/project/moodanddecisionmaking" component={Mood} />
       <Route path="/project/hopfield" component={Hopfield} />
       <Route path="/project/ccnA2" component={CCNA2} />
+      <Route path="/project/rl-hfo-soccer" component={RLHFOSoccer} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>
