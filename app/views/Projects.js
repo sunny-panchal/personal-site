@@ -18,12 +18,14 @@ const Projects = () => (
           <p>COMING SOON</p>
         </div>
       </header>
-      {/*data.map((project) => (
-        <Cell
-          data={project}
-          key={project.title}
-        />
-      ))*/}
+      {data.map((project) => (
+        <Link to={project.link}>
+          <Cell
+            data={project}
+            key={project.title}
+          />
+        </Link>
+      ))}
     </article>
   </Main>
 );
