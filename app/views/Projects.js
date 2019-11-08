@@ -19,8 +19,7 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2><Link to="/projects">Projects</Link></h2>
-          {/*<p>A selection of projects that I&apos;m not too ashamed of</p>*/}
-          <p>A selection of projects Ive worked on over the past few years.</p>
+          <p>A selection of projects and assignments I&apos;ve worked on over the past few years.</p>
         </div>
       </header>
       {filteredData.map((project) => (
