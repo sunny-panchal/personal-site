@@ -10,6 +10,11 @@ import Cell from '../components/Blog/Cell';
 import Post from '../components/Blog/Post';
 import data from '../data/blog';
 
+// remove posts with show: false
+var filteredData = data.filter(function(post) {
+  return post.show === true;
+});
+
 // Two options:
   // 1) Build it as an application where I interact with the posts to render new children components and maintain a state within the parent
         // -- Would need to figure out how to maintain the history for this and how to reference to subpages directly via a link
@@ -23,18 +28,17 @@ const Blog = () => (
       <header>
         <div className="title">
           <h2><Link to="/blog">Blog</Link></h2>
-          {/*<p>A selection of projects that I&apos;m not too ashamed of</p>*/}
-          <p>COMING SOON</p>
+          <p> Coming Soon </p>
         </div>
       </header>
-      {/*data.map((blogpost) => (
+      {filteredData.map((blogpost) => (
         <Link to={blogpost.link}>
           <Cell
             data={blogpost}
             key={blogpost.title}
           />
         </Link>
-      ))*/}
+      ))}
     </article>
   </Main>
 );
