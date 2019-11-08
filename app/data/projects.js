@@ -72,6 +72,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'Dissertation, Coursework',
     show: true,
+  }, {
+    title: "Avionics Capstone Design Project",
+    subtitle: 'Ryerson University Capstone',
+    link: '/project/avionics-capstone/',
+    image: '/images/placeholder1.jpg',
+    date: '2016-04-14',
+    desc: 'Coming soon',
+    tags: 'Capstone, Coursework, matlab, simulink',
+    show: true,
   },
 ];
 

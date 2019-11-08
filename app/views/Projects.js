@@ -12,6 +12,9 @@ var filteredData = data.filter(function(post) {
   return post.show === true;
 });
 
+// Sort by date
+filteredData.sort((a,b) => (a.date < b.date) ? 1 : -1);
+
 const Projects = () => (
   <Main>
     <Helmet title="Projects" />
