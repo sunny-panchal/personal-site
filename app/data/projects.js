@@ -81,6 +81,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'Capstone, Coursework, matlab, simulink',
     show: true,
+  }, {
+    title: "Design of a Neuro-Fuzzy Visual Comfort Classifier for Smart Window Control",
+    subtitle: 'B.Eng. Thesis - Ryerson University',
+    link: '/project/aerospace-thesis/',
+    image: '/images/placeholder1.jpg',
+    date: '2016-04-15',
+    desc: 'Coming soon',
+    tags: 'Thesis, Coursework, matlab, ANFIS',
+    show: true,
   },
 ];
 
