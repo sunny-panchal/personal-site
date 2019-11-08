@@ -16,6 +16,9 @@ import Contact from './views/Contact';
 // Blog posts
 import HelloWorld from './views/posts/blogs/HelloWorld'
 
+// Project posts
+import FourPlayerChess from './views/posts/projects/FourPlayerChess'
+
 import NotFound from './views/NotFound';
 
 // All of our CSS
@@ -27,11 +30,12 @@ ReactDOM.render(
       <Route exact path="/" component={withRouter(Index)} />
       <Route path="/about" component={About} />
       <Route exact path="/blog" component={withRouter(Blog)} />
-      <Route path="/projects" component={Projects} />
+      <Route exact path="/projects" component={Projects} />
       <Route path="/stats" component={Stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
       <Route path="/blog/helloworld" component={HelloWorld} />
+      <Route path="/project/fourplayerchess" component={FourPlayerChess} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>
