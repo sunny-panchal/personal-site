@@ -2,8 +2,9 @@
 
 ##### Machine Learning Practical Project - University of Edinburgh
 
-February 14, 2019
+Post date: November 8, 2019
+Submission date: February 14, 2019
 
 ---
 
-Add project description here
+Project description coming soon
