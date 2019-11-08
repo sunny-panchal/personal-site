@@ -18,6 +18,7 @@ import HelloWorld from './views/posts/blogs/HelloWorld'
 
 // Project posts
 import FourPlayerChess from './views/posts/projects/FourPlayerChess'
+import Mood from './views/posts/projects/Mood'
 
 import NotFound from './views/NotFound';
 
@@ -34,8 +35,11 @@ ReactDOM.render(
       <Route path="/stats" component={Stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
+      {/*BLOG POSTS*/}
       <Route path="/blog/helloworld" component={HelloWorld} />
+      {/*PROJECT POSTS*/}
       <Route path="/project/fourplayerchess" component={FourPlayerChess} />
+      <Route path="/project/moodanddecisionmaking" component={Mood} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>
