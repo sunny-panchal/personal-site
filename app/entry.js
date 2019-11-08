@@ -14,7 +14,7 @@ import Stats from './views/Stats';
 import Contact from './views/Contact';
 
 // Blog posts
-import HelloWorld from './views/posts/HelloWorld'
+import HelloWorld from './views/posts/blogs/HelloWorld'
 
 import NotFound from './views/NotFound';
 
