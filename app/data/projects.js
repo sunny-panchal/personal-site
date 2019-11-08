@@ -13,11 +13,11 @@ const data = [
     title: "Review of 'Neuro-computational Account of How Mood Fluctuations Arise and Affect Decision Making'",
     subtitle: 'Computational Cognitive Neuroscience Final Assignment',
     link: '/project/moodanddecisionmaking/',
-    image: '/images/projects/moodanddecisionmaking.jpg',
+    image: '/images/placeholder1.jpg',
     date: '2019-04-21',
     desc: 'Coming soon',
     tags: 'CCN',
-    show: false,
+    show: true,
   },
 ];
 
