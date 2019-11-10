@@ -41,13 +41,14 @@ const Index = () => (
       </p>
       <div className="body">
         <h2>Recent Updates</h2>
+        <p> No new updates </p>
         {/*Add conditional no recent updates line*/}
-        {allData.map((data) => (
+        {/*allData.map((data) => (
           <Cell
             data={data}
             key={data.title}
           />
-        ))}
+        ))*/}
       </div>
       <p> This site was bootstrapped from Michael D'Angelo's project. Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>

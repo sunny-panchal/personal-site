@@ -31,14 +31,14 @@ const Blog = () => (
           <p> Coming Soon </p>
         </div>
       </header>
-      {filteredData.map((blogpost) => (
+      {/*filteredData.map((blogpost) => (
         <Link to={blogpost.link}>
           <Cell
             data={blogpost}
             key={blogpost.title}
           />
         </Link>
-      ))}
+      ))*/}
     </article>
   </Main>
 );
