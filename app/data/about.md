@@ -1,35 +1,22 @@
 
 #### Intro
-I recently graduated from the Masters in Artificial Intelligence program at the University of Edinburgh and am seeking opportunities in...
-
-Qualifications:
-  - AI graduate
-  - background in Aero Eng
-  - Worked as an AI developer in the past
-  - Worked on a few startups
-
-Interests:
-  - AI Safety/Policy/Governance
+I am a recent graduate from the MSc in Artificial Intelligence program at the University of Edinburgh where I had enrolled in a diverse selection of courses in computational neuroscience and machine learning. I strongly believe a multi-disciplinary approach to AI is necessary to truly appreciate the complexities of developing AGI and am very excited to continue research in this field.
+<br><br>
+Research Interests:
+  - AI safety/policy/governance
   - Computational neuroscience
-  - predictive coding/active inference
-  - Application of AI methods to robotics
+  - Predictive coding/active inference
+  - Robotics
   - Reinforcement learning
   - AGI/Superintelligence
-
-Goals:
-  - Obtain a PhD in a relevant field
-  - Doing direct research via academia
-  - Starting my own consultancy
-  - Keeping up to date with global progress towards AGI
-  - Advocating for safe development of AI shaping international policy
 
 #### Currently
 I'm seeking new opportunities to apply and research methods in artificial intelligence through either industry or academia and pushing myself to start blogging.
 <br><br>
 #### In the long run, I'd like to
 - Obtain a PhD in a relevant high-impact topic within AI
-- Make a contribution via direct research
-- Publish an annual review on the state of AI
+- Publish an annual review on the state of AGI
+- Head my own research department
 <br>
 #### I like
 - Hiking
@@ -52,7 +39,7 @@ I'm seeking new opportunities to apply and research methods in artificial intell
 
 #### Travel
 
-- I am from originally from Brampton, Canada and have since lived in Toronto, Canada and Edinburgh, UK.
+- I am from originally from Brampton, Canada and have since lived in Toronto, Canada, Edinburgh, UK, and Vlorë, Albania.
 
 - I've been to 23 countries so far and look forward to growing that list.
 
