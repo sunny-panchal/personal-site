@@ -10,7 +10,7 @@ const data = {
   },
   location: {
     label: 'Current city',
-    value: 'Edinburgh, UK',
+    value: 'Toronto, Canada',
   },
 };
 
