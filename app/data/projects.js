@@ -8,7 +8,7 @@ const data = [
     date: '2019-02-14',
     desc: 'Extended AlphaZero algorithm for four-player chess.',
     tags: 'MLP, RL, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Review of 'Neuro-computational Account of How Mood Fluctuations Arise and Affect Decision Making'",
     subtitle: 'Computational Cognitive Neuroscience Final Assignment',
@@ -17,7 +17,7 @@ const data = [
     date: '2019-04-21',
     desc: 'Coming soon',
     tags: 'CCN, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Hopfield Networks, Schizophrenia and the Izhikevich Neuron Model",
     subtitle: 'Computational Cognitive Neuroscience Assignment 1',
@@ -26,7 +26,7 @@ const data = [
     date: '2019-02-15',
     desc: 'Coming soon',
     tags: 'CCN, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Computational Modeling of Behavioural Data",
     subtitle: 'Computational Cognitive Neuroscience Assignment 2',
@@ -35,7 +35,7 @@ const data = [
     date: '2019-03-25',
     desc: 'Coming soon',
     tags: 'CCN, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "RL Methods for HFO Soccer Agent",
     subtitle: 'Reinforcement Learning Coursework - University of Edinburgh',
@@ -44,7 +44,7 @@ const data = [
     date: '2019-03-29',
     desc: 'Coming soon',
     tags: 'RL, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Exploration of RMS-Prop and Adam Learning Algorithms",
     subtitle: 'Machine Learning Practical Coursework - University of Edinburgh',
@@ -53,7 +53,7 @@ const data = [
     date: '2018-10-26',
     desc: 'Coming soon',
     tags: 'MLP, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Pytorch Convolutional Neural Network Implementation and Exploration",
     subtitle: 'Machine Learning Practical Coursework - University of Edinburgh',
@@ -62,7 +62,7 @@ const data = [
     date: '2018-11-23',
     desc: 'Coming soon',
     tags: 'MLP, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Cross-Modal Generation and Modality-Driven Semantic Segmentation with Generative Adversarial Networks",
     subtitle: 'University of Edinburgh MSc Dissertation',
@@ -71,7 +71,7 @@ const data = [
     date: '2019-08-23',
     desc: 'Coming soon',
     tags: 'Dissertation, Coursework',
-    show: true,
+    show: false,
   }, {
     title: "Avionics Capstone Design Project",
     subtitle: 'Ryerson University Capstone',
@@ -80,7 +80,7 @@ const data = [
     date: '2016-04-14',
     desc: 'Coming soon',
     tags: 'Capstone, Coursework, matlab, simulink',
-    show: true,
+    show: false,
   }, {
     title: "Design of a Neuro-Fuzzy Visual Comfort Classifier for Smart Window Control",
     subtitle: 'B.Eng. Thesis - Ryerson University',
@@ -89,7 +89,7 @@ const data = [
     date: '2016-04-15',
     desc: 'Coming soon',
     tags: 'Thesis, Coursework, matlab, ANFIS',
-    show: true,
+    show: false,
   },
 ];
 
