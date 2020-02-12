@@ -15,6 +15,8 @@ import Contact from './views/Contact';
 
 // Blog posts
 import HelloWorld from './views/posts/blogs/HelloWorld'
+//import onConsciousness from './views/posts/blogs/onConsciousness'
+//import onVeganism from './views/posts/blogs/onVeganism'
 
 // Project posts
 import FourPlayerChess from './views/posts/projects/FourPlayerChess'
@@ -45,6 +47,8 @@ ReactDOM.render(
       <Route path="/resume" component={Resume} />
       {/*BLOG POSTS*/}
       <Route path="/blog/helloworld" component={HelloWorld} />
+      {/*<Route path="/blog/consciousness" component={onConsciousness} />
+      <Route path="/blog/onVeganism" component={onVeganism} />*/}
       {/*PROJECT POSTS*/}
       <Route path="/project/fourplayerchess" component={FourPlayerChess} />
       <Route path="/project/moodanddecisionmaking" component={Mood} />
