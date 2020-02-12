@@ -11,7 +11,7 @@ Research Interests:
   - AGI/Superintelligence
 
 #### Currently
-I'm seeking new opportunities to apply and research methods in artificial intelligence through either industry or academia and pushing myself to start blogging.
+I'm a junior A.I. Engineer at [TwentyBN](https://20bn.com) helping to usher in an era of in-home virtual personal trainers (and convincing myself to start blogging).
 <br><br>
 #### In the long run, I'd like to
 - Obtain a PhD in a relevant high-impact topic within AI
@@ -54,7 +54,7 @@ I'm seeking new opportunities to apply and research methods in artificial intell
 
 - I hate writing about myself.
 
-- I aspire to become a hyperpolyglot.
+- I aspire to become a hyperpolyglot (halfway there!).
 
 
 #### Some things to think about
