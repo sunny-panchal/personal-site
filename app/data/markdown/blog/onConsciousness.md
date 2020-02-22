@@ -11,7 +11,7 @@ Submission date:
 Add the drawing from my notebook here.
 
 ###### Disclaimer:
-    My knowledge and understanding of the subjects are a work in progress and may judgements may hence be contradictary
+    My knowledge and understanding of the subjects are a work in progress and my judgements may hence be contradictary
     and/or ill-defined at times. I am keen on identifying gaps in my knowledge and working on bettering my understanding. 
     I've reached a point where I can only theorize on these topics in my head for so long and need to put my thoughts down
     on paper to consolidate and improve my understanding with some feedback.  
