@@ -26,14 +26,14 @@ const Projects = () => (
           <p> Coming Soon </p>
         </div>
       </header>
-      {/*filteredData.map((project) => (
+      {filteredData.map((project) => (
         <Link to={project.link}>
           <Cell
             data={project}
             key={project.title}
           />
         </Link>
-      ))*/}
+      ))}
     </article>
   </Main>
 );
