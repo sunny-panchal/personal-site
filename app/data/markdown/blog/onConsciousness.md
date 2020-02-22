@@ -27,11 +27,14 @@ Add the drawing from my notebook here.
     Here I want to talk about the leading thinkers on consciousness and give an overview of the theories that 
     they had presented which I would then go on in detail below.
     
-#### The Hard Problem
+### The Hard Problem
+Could present the main text like this
+    
+    Random: And define terms like this, or use this box strategically to provide either an opinion, make something standout or add references
 
 
-#### Binding Problem
-
+### Binding Problem
+    Random
 
 #### Is your colour red the same as mine?
 

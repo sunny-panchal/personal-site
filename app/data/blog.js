@@ -15,7 +15,7 @@ const data = [
     image: '/images/blog/onConsciousness.jpg',
     date: '2019-11-03',
     desc: 'Add a description here',
-    show: false,
+    show: true,
   },
   {
     title: 'On Veganism',
