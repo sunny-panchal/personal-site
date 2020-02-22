@@ -19,7 +19,8 @@ Add the drawing from my notebook here.
 #### Intro
     How do you even describe consciousness? Thsi paragraph should really elicit awe about the wonderful
     reality of consciousness and how amazing it is that something like it exists at all. Start introducing
-    concepts such as phenomenological experience, qualia, and the hard problem of AI.
+    concepts such as phenomenological experience, qualia, and the hard problem of AI. 
+    Establish my central tennets here. 
     
     
 #### Consciousness through the ages
@@ -29,7 +30,19 @@ Add the drawing from my notebook here.
 #### The Hard Problem
 
 
+#### Binding Problem
+
+
 #### Is your colour red the same as mine?
+
+
+#### The intentional stance
+    Lay the groundwork from the perspective with which consciousness should be studied. Talk about how the design/physical
+    neuronal stance will be revisited in the end. 
+
+
+#### Consciousness as a prior
+    Lessons from meditation - location of consciousness?
 
 
 #### Attention Schema Theory
@@ -45,6 +58,7 @@ Add the drawing from my notebook here.
 
 
 #### Orchestrated OR
+    Conscious percepts
 
 
 #### David Hoffman's Nature of Reality (Computational Account of Consciousness I think?)
@@ -60,6 +74,32 @@ Add the drawing from my notebook here.
 #### Forced dualism through IIT
     If the commplexity of information processing reaches a critical point after which something becomes self-reflective and 
     conscious, how is this barrier defined and how would this 
+    
+#### Attractor Dynamics
+    - attention modulating attractor states
+    - Mood/emotions as attractor states
+    
+#### Tying it all together - Consciousness as a prior revisited
+    - Neural storms as thought
+    - Brain as a probabilistic engine - direct stimuli perception vs internally generated activity
+
+#### A medium for consciousness 
+    - tying together some of the concepts above on 
+ 
+    
+#### Neuronal basis of self
+    
+    
+#### Making sense of it all - conclusions
+    - Implications for self
+    - lack of free will
+    - We're all in this together
+    - Relation to self
+        - realization that the qualia of our experiences may be identical
+                - we're all just separate concentrations of consciousness
+    
+#### Bonus - Consciousness in artificial agents
+    Only touch on this subject here and have an entire post dedicated to this in the future. 
     
 
 
@@ -101,4 +141,6 @@ Add the drawing from my notebook here.
     - attention
     - reductionism
     - materialism
+    - solipsism
+    - epistemolocgical skepticism
     
