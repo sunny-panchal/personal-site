@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React, { Component } from 'react';
 import {withRouter} from 'react-router';
 import { Link } from 'react-router-dom';
@@ -9,6 +10,9 @@ import Main from '../layouts/Main';
 import Cell from '../components/Blog/Cell';
 import Post from '../components/Blog/Post';
 import data from '../data/blog';
+
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 // remove posts with show: false
 var filteredData = data.filter(function(post) {

@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {
@@ -34,6 +35,9 @@ import NotFound from './views/NotFound';
 
 // All of our CSS
 import './static/css/main.scss';
+
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 ReactDOM.render(
   <Router basename={BASE_PATH}>

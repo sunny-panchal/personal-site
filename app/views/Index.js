@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -6,6 +7,9 @@ import Main from '../layouts/Main';
 import Cell from '../components/Projects/Cell';
 import projectData from '../data/projects';
 import blogData from '../data/blog';
+
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 // Concatenate blogs and project posts
 var allData = projectData.concat(blogData);

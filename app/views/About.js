@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
@@ -6,6 +7,9 @@ import ReactMarkdown from 'react-markdown';
 import Main from '../layouts/Main';
 
 import markdown from '../data/about.md';
+
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const count = markdown.split(/\s+/)
   .map((s) => s.replace(/\W/g, ''))
