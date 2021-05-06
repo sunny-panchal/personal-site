@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
@@ -17,6 +18,9 @@ import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
 import research_exp from '../data/resume/research';
 
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 const sections = [
   'Education',
   'Research',
@@ -32,7 +36,7 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2><Link to="resume">Resume</Link></h2>
+          <h2><Link to="/resume">Resume</Link></h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>

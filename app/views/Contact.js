@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
@@ -6,6 +7,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Main from '../layouts/Main';
 
 import data from '../data/contact';
+
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 // Validates the first half of an email address.
 const validateText = (text) => {
