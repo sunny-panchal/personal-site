@@ -32,7 +32,7 @@ const Blog = () => (
       <header>
         <div className="title">
           <h2><Link to="/blog">Blog</Link></h2>
-          <p> Coming Soon </p>
+          <p> Coming <s>Soon</s> Eventually... </p>
         </div>
       </header>
       {filteredData.map((blogpost) => (
