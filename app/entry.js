@@ -29,6 +29,7 @@ import MLPA2 from './views/posts/projects/MLPA2'
 import MScDissertation from './views/posts/projects/MScDissertation'
 import AvionicsCapstone from './views/posts/projects/AvionicsCapstone'
 import BEngThesis from './views/posts/projects/BEngThesis'
+import RisottoStone from './views/posts/projects/RisottoStone'
 
 import NotFound from './views/NotFound';
 
@@ -62,6 +63,7 @@ ReactDOM.render(
       <Route path="/project/dissertation" component={MScDissertation} />
       <Route path="/project/avionics-capstone" component={AvionicsCapstone} />
       <Route path="/project/aerospace-thesis" component={BEngThesis} />
+      <Route path="/project/risotto-stone" component={RisottoStone} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>
