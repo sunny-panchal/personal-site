@@ -11,7 +11,6 @@ import About from './views/About';
 import Blog from './views/Blog';
 import Projects from './views/Projects';
 import Resume from './views/Resume';
-import Stats from './views/Stats';
 import Contact from './views/Contact';
 
 // Blog posts
@@ -46,7 +45,6 @@ ReactDOM.render(
       <Route path="/about" component={About} />
       <Route exact path="/blog" component={withRouter(Blog)} />
       <Route exact path="/projects" component={Projects} />
-      <Route path="/stats" component={Stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
       {/*BLOG POSTS*/}
