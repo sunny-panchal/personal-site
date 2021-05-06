@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
@@ -6,6 +7,9 @@ import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
+
+ReactGA.initialize('UA-147410230-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 // remove posts with show: false
 var filteredData = data.filter(function(post) {
@@ -26,14 +30,14 @@ const Projects = () => (
           <p> Coming Soon </p>
         </div>
       </header>
-      {/*filteredData.map((project) => (
+      {filteredData.map((project) => (
         <Link to={project.link}>
           <Cell
             data={project}
             key={project.title}
           />
         </Link>
-      ))*/}
+      ))}
     </article>
   </Main>
 );

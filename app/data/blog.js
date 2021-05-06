@@ -8,6 +8,24 @@ const data = [
     desc: 'Add a description here',
     show: false,
   },
+  {
+    title: 'On Consciousness',
+    subtitle: 'Towards a unified theory of consciousness',
+    link: '/blog/consciousness',
+    image: '/images/blog/onConsciousness.jpg',
+    date: '2019-11-03',
+    desc: 'Add a description here',
+    show: false,
+  },
+  {
+    title: 'On Veganism',
+    subtitle: 'Why I went vegan',
+    link: '/blog/onVeganism',
+    image: '/images/blog/onVeganism.jpg',
+    date: '2019-11-03',
+    desc: 'Add a description here',
+    show: false,
+  },
 ];
 
 export default data;
