@@ -90,6 +90,15 @@ const data = [
     desc: 'Coming soon',
     tags: 'Thesis, Coursework, matlab, ANFIS',
     show: false,
+  }, {
+    title: "RisottoStone",
+    subtitle: 'Powered by Sense',
+    link: '/project/risotto-stone/',
+    image: '/images/shutterstock_risotto.jpg',
+    date: '2021-05-06',
+    desc: 'An AI cooking assistant to decipher the secrets of making the perfect risotto',
+    tags: 'AI',
+    show: true,
   },
 ];
 

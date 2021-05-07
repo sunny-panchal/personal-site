@@ -45,7 +45,6 @@ const Index = () => (
       </p>
       <div className="body">
         <h2>Recent Updates</h2>
-        <p> No new updates </p>
         {/*Add conditional no recent updates line*/}
         {allData.map((data) => (
           <Cell
