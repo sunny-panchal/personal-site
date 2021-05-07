@@ -7,18 +7,6 @@ Post date: May 7, 2021
 
 ---
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/chopping_garlic.gif" 
-width="300px">
-    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/keep_stirring_1.gif" width="300px">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/chilli_to_pot.gif" 
-width="300px">
-    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/add_rice.gif" width="300px">
-</p>
-
 Back in Edinburgh a friend taught me the secret to making the perfect Risotto: slowly adding the broth a little
 at a time and non-stop stirring! My shoulders were not happy but man, did it turn out amazing! As a joke I thought it
 would be pretty funny if you could prop up your phone and get it to yell at you every time you stopped stirring. Fast 
@@ -58,6 +46,18 @@ and could easily be improved by collecting more data. It would be neat to add so
 labels to the 'adding_ingredients' class to get the model to detect what exactly is being added. I also haven't tested
 the model's generalization to people its never seen and new kitchen environments so if any of you try it out, I'd love 
 to hear your feedback!
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/chopping_garlic.gif" 
+width="400px">
+    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/keep_stirring_1.gif" width="400px">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/chilli_to_pot.gif" 
+width="400px">
+    <img src="https://raw.githubusercontent.com/sunny-panchal/sense/master/docs/gifs/add_rice.gif" width="400px">
+</p>
 
 ###### Dataset breakdown
 | Classes           | # of Videos (Training set)  | # of Videos (Validation set)  | 
