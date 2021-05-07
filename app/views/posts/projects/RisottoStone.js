@@ -14,8 +14,8 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const RisottoStone = () => (
   <Main>
-    <Helmet title="Blog" />
-    <article className="post" id="blog">
+    <Helmet title="Project" />
+    <article className="post" id="project">
       <ReactMarkdown
         source={markdown}
         renderers={{
