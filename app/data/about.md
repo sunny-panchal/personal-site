@@ -32,7 +32,7 @@ I'm an A.I. Researcher at [Twenty Billion Neurons GmbH](https://20bn.com) helpin
 
 #### Travel
 
-- I am from originally from Brampton, Canada and have since lived in Toronto, Canada, Edinburgh, UK, and Vlorë, Albania.
+- I am originally from Brampton (Canada) and have since lived in Toronto (Canada), Edinburgh (UK), and Vlorë (Albania -- if a month counts...).
 
 - I've been to [23](https://drive.google.com/open?id=12Lp3nk-7CLgvIGQzyYfTaBJIMN1kEEER&usp=sharing) countries so far and look forward to growing that list.
 
@@ -47,7 +47,7 @@ I'm an A.I. Researcher at [Twenty Billion Neurons GmbH](https://20bn.com) helpin
 
 - I hate writing about myself.
 
-- I aspire to become a hyperpolyglot (halfway there!).
+- I aspire to become a hyperpolyglot (<s>halfway there!</s> I need to practise a few again...).
 
 
 #### Some things to think about
