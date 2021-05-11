@@ -1,10 +1,16 @@
 
 const positions = [
-  {
+    {
+    company: 'Twenty Billion Neurons GmBh',
+    position: 'A.I. Researcher',
+    link: 'https://20bn.com',
+    daterange: 'January 2021 - Present',
+    points: [],
+  },{
     company: 'Twenty Billion Neurons GmBh',
     position: 'A.I. Engineer (Junior)',
     link: 'https://20bn.com',
-    daterange: 'January 2020 - Present',
+    daterange: 'January 2020 - December 2020',
     points: [],
   }, {
     company: 'Turalt Inc.',
