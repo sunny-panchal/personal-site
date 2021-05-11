@@ -41,7 +41,7 @@ and try it out for yourself on my fork of the Sense repo [here](https://github.c
 
 Overall the project was quite successful as a basic proof-of-concept and I was even able to get it monitor a whole 
 cooking session -- and yes, the risotto turned out delicious! There are many things that could be improved and I'd love 
-extend its capabilities in the future. For instance, the classes and examples it can currently detect are quite basic 
+to extend its capabilities in the future. For instance, the classes and examples it can currently detect are quite basic 
 and could easily be improved by collecting more data. It would be neat to add some more fine-grained object-level
 labels to the 'adding_ingredients' class to get the model to detect what exactly is being added. I also haven't tested
 the model's generalization to people its never seen and new kitchen environments so if any of you try it out, I'd love 
