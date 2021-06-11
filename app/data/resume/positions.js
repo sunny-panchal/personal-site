@@ -27,7 +27,7 @@ const positions = [
     position: 'Co-Founder and Full Stack Developer',
     daterange: 'December 2017 - March 2018',
     points: [
-      'Worked on a web application to improve the productivity of meetins by reducing the administrative burden of note-taking, producing summary reports, and scheduling action items/deliverables.',
+      'Worked on a web application to improve the productivity of meetings by reducing the administrative burden of note-taking, producing summary reports, and scheduling action items/deliverables.',
       'Developed front and back end software for an office productivity web application using Javascript and frameworks such as React.js, Node.js, and Express.js.',
       'Trained a tensorflow machine learning algorithm for local hot word detection and depoloyed it to AWS Beanstalk as a Flask API.',
     ],
