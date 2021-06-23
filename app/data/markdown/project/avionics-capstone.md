@@ -29,7 +29,7 @@ I'll update this post in the future with some more details behind how the system
 For now, enjoy this demo video:
 
 <div class="video-container">
-    <iframe src="http://www.youtube.com/embed/eRtz15vLFag" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://www.youtube.com/embed/eRtz15vLFag" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
